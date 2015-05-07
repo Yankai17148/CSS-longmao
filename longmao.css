@@ -67,21 +67,21 @@
 }
 .arm.arm-left{
 	top:128px;
-	left:8px;
-	-webkit-transform: rotate(4deg);
-	-moz-transform: rotate(4deg);
-	-ms-transform: rotate(4deg);
-	-o-transform: rotate(4deg);
-	transform: rotate(4deg);
+	left:11px;
+	-webkit-transform: rotate(8deg);
+	-moz-transform: rotate(8deg);
+	-ms-transform: rotate(8deg);
+	-o-transform: rotate(8deg);
+	transform: rotate(8deg);
 }
 .arm.arm-right{
 	top:128px;
-	right:8px;
-	-webkit-transform: rotate(-4deg);
-	-moz-transform: rotate(-4deg);
-	-ms-transform: rotate(-4deg);
-	-o-transform: rotate(-4deg);
-	transform: rotate(-4deg);
+	right:11px;
+	-webkit-transform: rotate(-8deg);
+	-moz-transform: rotate(-8deg);
+	-ms-transform: rotate(-8deg);
+	-o-transform: rotate(-8deg);
+	transform: rotate(-8deg);
 }
 .leg{
 	position: absolute; width: 0px;height: 0px;border-width:50px 70px;border-color:#797768 transparent transparent transparent;border-style:solid dashed dashed dashed;
